@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "447943279883",
+    "project_id": "turf-c9fc1",
+    "storage_bucket": "turf-c9fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447943279883:android:616ae8f45a6bbaa7e20e0e",
+        "android_client_info": {
+          "package_name": "com.example.turf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447943279883-jiv0mbimcbse5sb0l00si65mvs9bb1le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-OWW8jrv1YzUr-5BepzHgA4N1oF9CLqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447943279883-jiv0mbimcbse5sb0l00si65mvs9bb1le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
