@@ -1,4 +1,4 @@
-# TURF FLASH: Online Football Club Matchmaking and Turf Booking Application
+# TURF FLASH
 
 Turf Flash is an innovative platform designed to connect sports enthusiasts. Users can find nearby players, host matches, book sports turfs, and join football clubs seamlessly. The system leverages Flutter for cross-platform app development and Firebase for real-time database management and user authentication.
 
